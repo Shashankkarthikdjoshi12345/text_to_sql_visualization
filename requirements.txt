@@ -1,0 +1,9 @@
+flask
+streamlit
+langchain
+langgraph
+langchain-openai
+openai
+langchain-community
+pandas
+matplotlib
